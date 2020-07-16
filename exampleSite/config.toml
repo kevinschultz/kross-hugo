@@ -65,8 +65,5 @@ icon = "ti-facebook"
 URL = "https://www.instagram.com/kevinmschultz/"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/kevinschultz"
 icon = "ti-twitter-alt"
