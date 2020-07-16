@@ -1,4 +1,4 @@
-baseURL = "http://ou-q2zajbmo.netlify.com"
+baseURL = "http://ou-q2zajbmo.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
