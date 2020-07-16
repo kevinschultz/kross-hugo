@@ -2,7 +2,7 @@ baseURL = "https://ou-q2zajbmo.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross"
+title = "Kevin Schultz"
 [[menu.main]]
 URL = "about"
 name = "About"
