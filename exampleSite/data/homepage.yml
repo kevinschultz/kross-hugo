@@ -48,6 +48,9 @@ education:
   enable: true
   title: Education
   item:
+  - title: Master of Business Administration (M.B.A.) – Marketing
+    year: ''
+    academy: University of Dayton
   - title: Bachelor of Science (B.S.) – Management Information Systems
     year: ''
     academy: University of Dayton
