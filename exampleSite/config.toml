@@ -28,7 +28,7 @@ phone = "+1 937 684 9260"
 theme_color = "#ff9914"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "https://formspree.io/xeqrpnvb"
 [params.map]
 enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en"
